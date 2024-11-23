@@ -29,7 +29,7 @@ let assetGameArt;
 
 function preload() {
     // Background assets
-    assetBackgroundMainMenu = customLoadArt("asset/art/background/informatica.png");
+    assetBackgroundMainMenu = customLoadArt("asset/art/background/Informatica.png");
     assetGameBackGround = customLoadArt("asset/art/background/Speelveld.jpg")
     assetGameOverScreen = customLoadArt("asset/art/background/gameover.png");
 
@@ -43,7 +43,7 @@ function preload() {
     // Character
 
     assetCharacter = customLoadArt("asset/art/character/deGroot.png");
-    assetBubble = customLoadArt("asset/art/character/TekstWolkje.png");
+    assetBubble = customLoadArt("asset/art/character/Tekstwolkje.png");
 
     // HUD assets
     assetGameBackgroundHUD = customLoadArt("asset/art/hud/Overlay.png");
